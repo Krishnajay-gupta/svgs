@@ -1,1 +1,3 @@
-# svgs
+# svg image
+
+          by Krihnajay Gupta
